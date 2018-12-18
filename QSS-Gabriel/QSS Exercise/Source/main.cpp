@@ -27,7 +27,7 @@
 // ----------------------------------------------------------------
 
 #include<vector>
-#include "SDL\include\SDL.h"
+#include "SDL\includde\SDL.h"
 #include "SDL_image\include\SDL_image.h"
 #include "SDL_mixer\include\SDL_mixer.h"
 
