@@ -10,6 +10,16 @@ Aniol
 Marc
 Roger
 
+## Controls
+
+These are the game controls to control the ship.
+w -> The ship moves up.
+s -> The ship moves down.
+d -> The ship moves in front.
+a -> The ship moves forward.
+space -> The ship shots a laser.
+Esc -> Exit from the game.
+
 ## License
 
 This is free and unencumbered software released into the public domain.
